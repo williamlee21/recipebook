@@ -1,0 +1,16 @@
+.mt-10 {
+  margin-top: 10px;
+  background: #f9f9f9;
+}
+
+.bg-food {
+  background-image: url("../images/background.jpg");
+  background-repeat: repeat;
+  background-position: fixed;
+  min-width: 100%;
+  min-height: 100%;
+  /* overflow: hidden; */
+  /* height: 100%; */
+  background-size: cover;
+  height: 100vh;
+}
